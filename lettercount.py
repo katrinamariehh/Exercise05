@@ -20,5 +20,6 @@ for letter in letters:
         pass
 
 for i in range (len(alphabet)):
-    print chr(i + 97), 
+    # comment out line 24 to print appropriately for 'spark'
+    # print chr(i + 97), 
     print alphabet[i]
